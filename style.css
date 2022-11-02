@@ -1,0 +1,20 @@
+body
+{
+ text-align: center;
+}
+.heading
+{
+    text-align: left;
+    width:100%;
+}
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+li{
+    text-align:left
+}
+canvas
+{
+    
+}
